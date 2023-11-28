@@ -1,0 +1,2 @@
+1: open -a Safari
+2: ls

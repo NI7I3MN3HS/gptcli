@@ -1,7 +1,7 @@
 {
   "name": "gptcli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A CLI tool to convert natural language to command line commands.",
   "main": "index.js",
   "type": "module",
   "scripts": {

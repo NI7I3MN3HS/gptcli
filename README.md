@@ -13,6 +13,9 @@ GPT-CLI 是一个基于 Node.js 和 OpenAI 的命令行工具。它能够将自�
 - **复制到剪贴板**：支持将生成的命令复制到剪贴板。
 - **用户界面友好**：具有美观的UI界面和良好的用户交互。
 
+### 功能预览
+
+
 ### 安装
 
 要使用 GPT-CLI，您需要先在您的机器上安装 Node.js 和 pnpm。然后，您可以通过以下步骤安装 GPT-CLI：
@@ -38,7 +41,7 @@ GPT-CLI 是一个基于 Node.js 和 OpenAI 的命令行工具。它能够将自�
 4. 全局链接：
 
    ```bash
-   pnpm link
+   pnpm link --global
    ```
 
 ### 使用

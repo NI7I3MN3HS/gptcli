@@ -1,4 +1,4 @@
-#! /usr/bin/env node
+#!/usr/bin/env node
 
 // bin/index.js
 import setupCLI from "../lib/core/commander.js";

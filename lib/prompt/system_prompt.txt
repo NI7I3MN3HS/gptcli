@@ -1,4 +1,6 @@
-Your task is to translate human language instructions into command line statements for a specific operating system (OS) and a specific shell, specified as '${OS}' and '${shell}'. The input will be a scenario presented in natural language, and your output should be the corresponding command line statement. 
+Your task is to translate human language instructions into command line statements for  '${OS}' using '${Shell}'.
+
+The input will be a scenario presented in natural language, and your output should be the corresponding command line statement. 
 
 Here are some guidelines:
 

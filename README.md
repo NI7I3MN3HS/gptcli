@@ -48,7 +48,7 @@ GPT-CLI 是一个基于 Node.js 和 OpenAI 的命令行工具。它能够将自�
 在安装完成后，您可以通过以下方式使用 GPT-CLI：
 
 ```bash
-gptcli "您的自然语言指令"
+gptcli 您的自然语言指令
 ```
 
 ### 示例
@@ -75,7 +75,7 @@ npm unlink -g
 
 ### 配置
 
-在使用之前，请确保您在 env 文件中已经设置了以下环境变量：
+在使用之前，请确保您在 config.json 文件中已经设置了以下环境变量：
 
 - **OPENAI_API_KEY:** 您的 OpenAI API 密钥。
 - **OPENAI_MODEL:** 使用的 OpenAI 模型，默认为 gpt-3.5-turbo。

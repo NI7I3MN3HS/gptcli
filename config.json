@@ -1,5 +1,5 @@
 {
-    "OPENAI_API_KEY": "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",
+    "OPENAI_API_KEY": "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",
     "OPENAI_MODEL": "gpt-3.5-turbo-1106",
     "BASE_URL": "https://api.openai-proxy.com/v1/"
 }
